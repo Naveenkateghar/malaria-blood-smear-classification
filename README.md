@@ -1,1 +1,1 @@
-# malaria-bloodd-smear-classification
+# malaria-blood-smear-classification
